@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dKdy5lEn0G8ANtc5llULq+ALFpfE6D6zHRX4w3xwu5dTTyIektwlVQItWZJ4wnpDnuJkk07sgu0/gqP1/yUjZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zenit\\Desktop\\Laba15\\Laba15.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zenit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
